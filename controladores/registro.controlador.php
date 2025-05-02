@@ -12,7 +12,7 @@ class ControladorRegistro{
                 "pers_nombre" => $_POST["registroNombre"],
                 "pers_telefono" => $_POST["registroTelefono"],
                 "pers_correo" => $_POST["registroCorreo"],
-                "pers_clave" => $_POST["registroPassword"]            
+                "pers_contrasena" => $_POST["registroPassword"]            
 
             );
 
